@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ram</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e475yyqhnmc1vop1imdssqw1a0lcfs4i5p97fxhdehe&ep=v1_gifs_related&rid=giphy.gif&ct=g">
@@ -9,9 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Netflix Clone **Netflix Clone**
-
-- 💬 Ask me about **ReactJS,NodeJS**
+- 🔭 I’m currently working on **Netflix Clone**
 
 - 📫 How to reach me **patil.ram4021@gmail.com**
 
