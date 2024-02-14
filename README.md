@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ram</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e475yyqhnmc1vop1imdssqw1a0lcfs4i5p97fxhdehe&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rampatil2104&label=Profile%20views&color=0e75b6&style=flat" alt="rampatil2104" /> </p>
 
